@@ -1,0 +1,1 @@
+//Define different API with different names in services folder and export all from index.jsx
